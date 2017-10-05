@@ -22,3 +22,7 @@ PROJECT : Imminent Flair
 /*......................................................
 	MOBILE LAYOUT
 ........................................................*/
+@media (max-width: 700px) {
+ .rmash-menu ul li:last-child::after{
+	 display:none;
+}
