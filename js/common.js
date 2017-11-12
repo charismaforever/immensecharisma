@@ -27,6 +27,12 @@ PROJECT :Imminent Flair Revamp
               App.imagepopup();
              	
             },
+		loader:function()
+    {
+                         
+          $("div.preloader").fadeOut("fast");                   
+                         
+    },
         
         typing:function()
         {
