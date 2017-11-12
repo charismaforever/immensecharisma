@@ -30,7 +30,7 @@ PROJECT :Imminent Flair Revamp
         loader:function()
 	{
                          
-	 $("div.preloader").fadeOut("slow");                         
+	 $("div.preloader").fadeOut("fast");                         
                          
 	},
         typing:function()
